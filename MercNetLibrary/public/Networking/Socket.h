@@ -8,5 +8,9 @@ public:
 	Socket();
 	~Socket();
 
+	void Create();
+	void Send();
+	void Recv();
+
 };
 }
