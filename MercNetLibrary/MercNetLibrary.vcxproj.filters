@@ -10,12 +10,12 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClInclude Include="Socket.h">
+    <ClInclude Include="Public\Networking\Socket.h">
       <Filter>Networking</Filter>
     </ClInclude>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="Socket.cpp">
+    <ClCompile Include="Private\Networking\Socket.cpp">
       <Filter>Networking</Filter>
     </ClCompile>
   </ItemGroup>

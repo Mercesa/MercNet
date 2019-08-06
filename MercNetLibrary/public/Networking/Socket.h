@@ -1,6 +1,6 @@
 #pragma once
 
-namespace MNetLib
+namespace Merc
 {
 class Socket
 {

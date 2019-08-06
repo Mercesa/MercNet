@@ -1,6 +1,6 @@
 #include "Networking/Socket.h"
 
-using namespace MNetLib;
+using namespace Merc;
 
 Socket::Socket()
 {
