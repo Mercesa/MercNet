@@ -19,9 +19,11 @@
     </ProjectConfiguration>
   </ItemGroup>
   <ItemGroup>
+    <ClInclude Include="Network.h" />
     <ClInclude Include="Public\Networking\Socket.h" />
   </ItemGroup>
   <ItemGroup>
+    <ClCompile Include="Network.cpp" />
     <ClCompile Include="Private\Networking\Socket.cpp" />
   </ItemGroup>
   <PropertyGroup Label="Globals">

@@ -13,10 +13,12 @@
     <ClInclude Include="Public\Networking\Socket.h">
       <Filter>Networking</Filter>
     </ClInclude>
+    <ClInclude Include="Network.h" />
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="Private\Networking\Socket.cpp">
       <Filter>Networking</Filter>
     </ClCompile>
+    <ClCompile Include="Network.cpp" />
   </ItemGroup>
 </Project>
