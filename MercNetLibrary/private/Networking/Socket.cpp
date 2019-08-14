@@ -4,10 +4,15 @@ using namespace Merc;
 
 Socket::Socket()
 {
+
 }
 
 
 Socket::~Socket()
+{
+}
+
+void Merc::Socket::Bind(std::shared_ptr<Address> aAddress)
 {
 }
 
