@@ -13,9 +13,6 @@
     <ClInclude Include="Public\Networking\Socket.h">
       <Filter>Networking</Filter>
     </ClInclude>
-    <ClInclude Include="Network.h">
-      <Filter>Networking</Filter>
-    </ClInclude>
     <ClInclude Include="public\Networking\Address.h">
       <Filter>Networking</Filter>
     </ClInclude>
@@ -24,7 +21,7 @@
     <ClCompile Include="Private\Networking\Socket.cpp">
       <Filter>Networking</Filter>
     </ClCompile>
-    <ClCompile Include="Network.cpp">
+    <ClCompile Include="private\Networking\Address.cpp">
       <Filter>Networking</Filter>
     </ClCompile>
   </ItemGroup>
